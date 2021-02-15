@@ -1,0 +1,68 @@
+body {
+    background-color: #c2ccc9;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    font-size: 20px;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    text-decoration: none;
+    background-color: #cfb6b6;
+    color: #991c1c;
+}
+
+.title {
+    text-align: center;
+    background-color: #edecf3;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main h2 {
+    font-size: 32px;
+    color: #7357d8;
+    text-transform: capitalize;
+}
+
+.main li {
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.main p {
+    font-size: 20px;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.forms h2 {
+    font-size: 32px;
+    color: #7357d8;
+}
+
+.forms {
+    font-size: 16;
+}
+
+.forms label {
+    font-size: 20px;
+}
